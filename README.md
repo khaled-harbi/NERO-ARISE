@@ -1,7 +1,7 @@
 # 🎮 NERO: ARISE  
 *By Khaled Alharbi*  
 
-**Live Game:** [▶ Play NERO:ARISE on GitHub Pages](https://khaled-harbi.github.io/NERO-ARISE/)  
+**Live Game:** [▶ Play NERO:ARISE](https://khaled-harbi.github.io/NERO-ARISE/)  
 
 > *A Black Clover–themed arcade adventure where skill, timing, and anime vibes collide.*  
 

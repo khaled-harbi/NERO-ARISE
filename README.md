@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="NERO:ARISE Banner" width="100%">
-</p>
-
 # 🎮 NERO:ARISE  
 *By Khaled Alharbi*  
 
@@ -63,6 +59,24 @@ The goal of NERO:ARISE is to transform a simple mechanic into a **creative, anim
   - 20 pipes → Gold Clover Cup  
   - 30 pipes → Red Clover Cup  
 - **Mana Stones**: Collect to unlock characters and maps via the shop.  
+
+---
+
+## 📷 Screenshots  
+
+<p align="center">
+  <img src="main-menu.png" alt="Main Menu" width="45%">
+  <img src="shop.png" alt="Shop Screen" width="45%">
+</p>
+
+<p align="center">
+  <img src="gameplay1.png" alt="Gameplay 1" width="45%">
+  <img src="gameplay2.png" alt="Gameplay 2" width="45%">
+</p>
+
+<p align="center">
+  <img src="you-died.png" alt="Game Over Screen" width="45%">
+</p>
 
 ---
 

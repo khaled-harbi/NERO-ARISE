@@ -8,15 +8,15 @@
 ---
 
 ## 📖 Overview  
-**NERO:ARISE** is a **Flappy Bird–inspired** arcade game set in the magical universe of *Black Clover* by Yūki Tabata.  
-You control **Nero**, the mystical bird, navigating through enchanted landscapes, dodging magical obstacles, and chasing high scores.  
+**NERO: ARISE** is a **Flappy Bird–inspired** arcade game set in the magical universe of *Black Clover* by Yūki Tabata.  
+You control **Nero**, the mysterious bird, navigating through mystical landscapes, dodging magical obstacles, and chasing high scores.  
 
 Built with Unity and deployed via WebGL, it blends **anime fan service** with **addictive, quick-replay gameplay** for both fans and casual players.  
 
 ---
 
 ## 🎯 Purpose  
-The goal of NERO:ARISE is to transform a simple mechanic into a **creative, anime-themed experience** that appeals to:  
+The goal of NERO: ARISE is to transform a simple mechanic into a **creative, anime-themed experience** that appeals to:  
 - Fans of *Black Clover*  
 - Anime enthusiasts  
 - Casual gamers who enjoy quick, replayable challenges  

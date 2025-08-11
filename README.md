@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="NERO:ARISE Banner" width="100%">
+</p>
+
 # 🎮 NERO:ARISE  
 *By Khaled Alharbi*  
 

@@ -72,18 +72,8 @@ The goal of NERO:ARISE is to transform a simple mechanic into a **creative, anim
 ## 🛠 Tech Stack  
 - **Engine:** Unity (WebGL Build)  
 - **Language:** C#  
-- **Hosting:** GitHub Pages  
-
----
-
-## 📌 How to Play Locally  
-1. Clone this repo:  
-   ```bash
-   git clone https://github.com/khaled-harbi/NERO-ARISE.git
-   ```
-2. Open in Unity.  
-3. Build & Run as WebGL.  
-
+- **Hosting:** GitHub Pages
+  
 ---
 
 ## 📜 Credits  

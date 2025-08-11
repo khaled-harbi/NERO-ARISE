@@ -1,4 +1,4 @@
-# 🎮 NERO:ARISE  
+# 🎮 NERO: ARISE  
 *By Khaled Alharbi*  
 
 **Live Game:** [▶ Play NERO:ARISE on GitHub Pages](https://khaled-harbi.github.io/NERO-ARISE/)  

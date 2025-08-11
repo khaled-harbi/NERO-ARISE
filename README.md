@@ -3,7 +3,7 @@
 
 **Live Game:** [▶ Play NERO: ARISE](https://khaled-harbi.github.io/NERO-ARISE/)  
 
-> *A Black Clover–themed arcade adventure where skill, timing, and anime vibes collide.*  
+> *A Black Clover themed arcade adventure where skill timing and anime vibes collide*  
 
 ---
 
